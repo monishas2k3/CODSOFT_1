@@ -66,7 +66,7 @@ Portfolio/
 
 ## 🚀 Live Demo
 
-👉 https://monishas2k3.github.io/portfolio/
+👉 https://monishas2k3.github.io/CODSOFT_1/
 
 ---
 
